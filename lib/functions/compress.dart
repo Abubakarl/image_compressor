@@ -17,7 +17,7 @@ Future<File> Compress(
     initFile.absolute.path,
     temp,
     keepExif: false,
-    quality: 20,
+    quality: 30,
   );
   GallerySaver.saveImage(
     status!.path,
