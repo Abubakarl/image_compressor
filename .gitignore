@@ -4,5 +4,6 @@
 /.idea
 /.metadata
 /.vscode
+/build
 /macos
 /test
